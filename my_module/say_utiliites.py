@@ -12,3 +12,6 @@ def sayLifeIsGood():
 def sayWhat():
     print("What?")
 
+def saywhen():
+    print('when')
+
