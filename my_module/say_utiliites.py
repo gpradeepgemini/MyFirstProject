@@ -9,4 +9,6 @@ def sayIMissYou():
 
 def sayLifeIsGood():
     print("I'm good.")
+def sayWhat():
+    print("What?")
 
