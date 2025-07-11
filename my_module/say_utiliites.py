@@ -16,5 +16,5 @@ def saywhen():
     print('when')
 
 def sayVS():
-    print('from visual studio')
+    print('from visual studio test')
 
