@@ -15,3 +15,6 @@ def sayWhat():
 def saywhen():
     print('when')
 
+def sayVS():
+    print('from visual studio')
+
