@@ -7,3 +7,6 @@ def sayHelloWorld():
 def sayIMissYou():
     print("I'm missing.")
 
+def sayLifeIsGood():
+    print("I'm good.")
+
