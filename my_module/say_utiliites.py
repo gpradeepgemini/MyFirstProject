@@ -18,3 +18,6 @@ def saywhen():
 def sayVS():
     print('from visual studio test changes from branch')
 
+def sayHelloGitHub():
+    print("Hello GitHub")
+
