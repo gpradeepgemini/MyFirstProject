@@ -21,3 +21,6 @@ def sayVS():
 def sayHelloGitHub():
     print("Hello GitHub")
 
+def sayHelloGH():
+    print("Hello GH from VS")
+
