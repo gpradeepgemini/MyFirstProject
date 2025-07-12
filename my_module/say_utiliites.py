@@ -24,3 +24,5 @@ def sayHelloGitHub():
 def sayHelloGH():
     print("Hello GH from VS")
 
+def saySource():
+    print("source")
